@@ -1,0 +1,39 @@
+{
+    "product":[
+        {
+            "id":1,
+            "img":"/",
+            "name":"Cookie",
+            "price":50,
+            "stock":5,
+            "discount":1
+        },
+
+        {
+            "id":2,
+            "img":"/",
+            "name":"Pecan Pie",
+            "price":1299,
+            "stock":10,
+            "discount":" "
+        },
+
+        {
+            "id":3,
+            "img":"/",
+            "name":"Fruit Lollipop",
+            "price":9,
+            "stock":5,
+            "discount":" "
+        },
+
+        {
+            "id":4,
+            "img":"/",
+            "name":"Cupcake",
+            "price":60,
+            "stock":8,
+            "discount":" "
+        }
+    ]
+}
